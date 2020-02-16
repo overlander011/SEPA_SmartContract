@@ -14,6 +14,7 @@ git checkout SmartContractt.V1
 
 ## Usage
 1.Open remix in web browser such as Google chrome and past my code to it 
+
 2.select version 0.4.25 and Compile --> Start to Compile  
 3.Go to Run and select Env. JAVASCRIPT VM && add gas limit to 6000000
 4.Select Campaign Project and fullfill attr. 
