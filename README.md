@@ -6,7 +6,7 @@ Smart contract using solodity programing [Read the Doc](https://solidity.readthe
 
 ## Installation
 
-clon my master git hub and switching brach
+switching brach and clone it
 ```bash
 git clone https://github.com/overlander011/SEPA_SmartContract.git
 git checkout SmartContractt.V1
